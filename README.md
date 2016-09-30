@@ -1,5 +1,5 @@
-# Guida pratica per venire pagati con l'open source.
-*"Lavoro con l'open source, come posso venire pagato?"*
+# Guida pratica su come guadagnare con l'open-source
+*"Lavoro con l'open source, come posso guadagnare rendendolo quindi un lavoro?"*
 
 In questa guida verranno illustrati tutti i metodi che conosco per venire pagati per i propri lavori open source, grezzamente ordinati dal più piccolo al più grande. Ogni categoria contiene dei link ad esempi reali. (Dove possibile, ho provato a linkare ad articoli utili o pagine invece che a semplici homepage.).
 
@@ -35,8 +35,8 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 *Inserisci un pulsante di donazione nel tuo sito. Stripe e PayPal sono alcuni esempi di servizi che ti permettono di accettare donazioni.*
 
 ####Vantaggi
-* Poche righe di codice necessarie
-* Comporta poco sforzo ed una sola volta
+* Few strings attached
+* Comporta poco sforzo per l'integrazione, da svolgere una sola volta
 
 ####Svantaggi
 * Solitamente non raccimolano molti soldi, a meno che non venga dedicato del tempo a promuovere la raccolta
@@ -50,28 +50,28 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Transmission](https://www.transmissionbt.com/)
 
 ##Bounties
-*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
+*A volte, progetti e aziende pubblicano dei "bounty" per svolgere del lavoro su un progetto opensource (per esempio "risolvi il bug ed ottieni $100). Ci sono vari siti internet, elencati più avanti, che facilitano l'inserimento e la ricerca di bounty.
 
 ####Vantaggi
 * Open to community participation
-* Money is tied to doing specific work (more like paying for service than donations)
-* Especially popular for security work
+* Il denaro è destinato al adempimento di uno specifico task (più simile ad un pagamento che ad una donazione)
+* Molto popolare per i task relativi alla sicurezza
 
 ####Svantaggi
-* Can create perverse incentives in a project (low quality PRs, distracting priorities)
+* Can create perverse incentives in a project (PR di bassa qualità, distrazione dalle priorità del progetto)
 * Usually not much money per bounty (~<$500)
-* Doesn’t provide recurring revenue
+* Non fornisce un entrata costante
 
 ####Casi di studio
 * [Bountysource](http://bountysource.com)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
 ##Crowdfunding (one-time)
-*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
+*Se hai un'idea specifica che ti piacerebbe implementare (piuttosto che un progetto già avviato), una campagna di raccolta fondi iniziale può aiutare a raccimolare il denaro necessario. Sia singoli utenti che aziende potrebbero essere interessate a donare per la tua campagna.*
 
 ####Vantaggi
 * Few strings attached
-* Can be easier for an individual to legally manage via, ex. [Kickstarter](https://kickstarter.com/)
+* Può essere semplice da gestire (legalmente) tramite servizi come [Kickstarter](https://kickstarter.com/)
 
 ####Svantaggi
 * Lots of work involved to market campaign
@@ -86,11 +86,11 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 
 ##Crowdfunding (recurring)
-*If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
+*Se necessiti un finanziamento per un progetto in corso, puoi creare una raccolta fondi ricorrente nel tempo, con cadenza mensile o annuale. Coloro che utilizzano il tuo progetto regolarmente (sia singoli che aziende) potrebbero essere interessati a finanziare il tuo lavoro.*
 
 ####Vantaggi
 * Few strings attached
-* Can be easier for an individual to legally manage via, ex. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/), [OpenCollective](https://opencollective.com)
+* Può essere semplice da gestire (legalmente) tramite servizi come [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/) e [OpenCollective](https://opencollective.com)
 
 ####Svantaggi
 * Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
@@ -106,7 +106,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Ruby Together](https://rubytogether.org)
 
 ##Books and merchandise
-*If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
+*Se sei un esperto in un determinato campo che altre persone reputano interessante o del quale vogliono acquisire maggiori conoscenze, puoi scrivere e vendere un libro o una serie di libri a riguardo. Puoi trovare un editore (come O'Reilly per esempio) oppure pubblicarlo autonomamente. Oltre ai libri, alcuni progetti vendono anche merchandise (come magliette, portachiavi, adesivi) per supportare il loro lavoro.*
 
 ####Vantaggi
 * Outcome not tied to project work itself, so you retain creative freedom
@@ -114,9 +114,9 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * Can be recurring source of revenue after initial development
 
 ####Svantaggi
-* Often not a significant source of revenue
-* Can distract from core development of project
-* Merchandise can have upfront costs
+* Spesso non sono una fonte di fondi significativa
+* Può distrarre dallo sviluppo del progetto
+* Il merchandise può avere dei costi da anticipare
 
 ####Casi di studio
 * [Lua](https://www.lua.org/pil/)
@@ -125,7 +125,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Kyle Simpson + You Don't Know JS (sforzo personale)](https://github.com/getify/You-Dont-Know-JS)
 * [CocoaPods (fundraising for charity)](https://cocoapods.org/socks)
 
-##Advertising & sponsorships
+##Pubblicità & sponsorizzazioni
 *If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them. You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.*
 
 ####Vantaggi
@@ -201,7 +201,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
-##Svantaggiulting & services
+##Consulenza & servizi
 *Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
 
 *If your project is popular, you can also offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
@@ -221,7 +221,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [OpenSSL](http://openssl.com/what.html)
 
 ##SaaS
-*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself is open source, but you might offer additional paid services that make it easier for people to use your project. One common example of a paid service is charging for hosting.*
+*SaaS è l'acronimo di [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In questo modello, il codice principale è opensource, ma puoi offrire servizi aggiuntivi a pagamento che permettono ad altre persone di utilizzare il tuo progetto con facilità. Un esempio di servizio a pagamento potrebbe essere far pagare per l'hosting.*
 
 ####Vantaggi
 * Can build community around open project and make money off of services for hosting
@@ -241,8 +241,8 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Travis CI](https://travis-ci.org/)
 * [Ghost](https://ghost.org/)
 
-##Freemium License
-*"Freemium" licenses are not open source, because they do not meet all the [required freedoms](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license simultaneously (ex. the source code is not both freely visible AND available to redistribute and modify). Still, they are tangentially related to open source work.*
+##Licenze freemium
+*Le licenze "Freemium" non sono open-source, in quanto non offrono contemporaneamente tutte le [libertà richieste](https://en.wikipedia.org/wiki/The_Open_Source_Definition) da una licenza opensource (per esempio, il codice sorgente non è allo stesso tempo visibile liberamente e disponibile per la redistribuzione e modifica). Still, they are tangentially related to open source work.*
 
 *A freemium license restricts some open source freedoms to commercial terms. For example, they might make the source code visible, but require a commercial license to use the code.*
 
@@ -260,7 +260,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [BSL (Business Source License)](https://mariadb.com/bsl-faq-adopting), used by [MariaDB](https://mariadb.com/)
 
 
-##Dual License
+##Doppia license
 *Sometimes, projects offer an identical codebase with two different licenses: one that is commercially-friendly, and one that is less so (ex. GPL). The latter is free for anyone to use, but companies pay for the commercial license in order to have legal peace of mind.*
 
 ####Vantaggi
@@ -293,7 +293,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Mesosphere](https://mesosphere.com/)
 * [Sidekiq](http://sidekiq.org/)
 
-##Foundations & consortiums
+##Fondazioni & consorzi
 *A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
 
 ####Vantaggi
@@ -340,6 +340,12 @@ Se qualcosa fosse incorretta (specialmente riguardo i casi di studio), apprezzer
 
 
 ### Licenza e attribuzione
-Questa guida è disponibile sotto licenza "Creative Commons CC0 1.0 License", sei libero di usarla per qualsiasi scopo, commerciale e non commerciale, senza dover citare l'autore originale (dominio pubblico). Se utilizzi questa guida, mi piacerebbe venirne a conoscenza! (Contattami a: [@nayafia](http://twitter.com/nayafia)) Ovviamente non sei obbligato a contattarmi.
+Questa guida è disponibile sotto licenza "Creative Commons CC0 1.0 License", sei libero di usarla per qualsiasi scopo, commerciale e non commerciale, senza dover citare l'autore originale (dominio pubblico). 
 
-La traduzione in lingua italiana è stata curata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)); il documento tradotto mantiene la stessa licenza dell'originale. 
+La versione in lingua italiana è stata curata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)); il documento tradotto mantiene la stessa licenza dell'originale. 
+
+####Nota dall'autore originale
+Se utilizzi questa guida, mi piacerebbe venirne a conoscenza! (Contattami a: [@nayafia](http://twitter.com/nayafia)) Ovviamente non sei obbligato a contattarmi.
+
+### Donazioni
+Chi vuole può fare una donazione tramite Bitcoin all'indirizzo:
