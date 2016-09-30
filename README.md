@@ -341,7 +341,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 
 L'autore originale ha scritto questa guida per aggregare le sue conoscenze riguardo questo tema, e non prevede l'aggiunta di ulteriori contributi o cambiamenti. I vantaggi e svantaggi descritti sono soggettivi, dunque rispecchiano il punto di vista dell'autore originale.
 
-Al contrario del documento originale, la versione italiana accetterà ulteriori integrazioni, modifiche e suggerimenti.
+Al contrario del documento originale, la versione italiana accetterà ulteriori integrazioni, modifiche e suggerimenti. Il testo è stato inoltre adattato dove necessario per adeguarsi alla legislazione italiana e presenta alcune modifiche rispetto al documento originale.
 
 Se qualcosa fosse incorretta (specialmente riguardo i casi di studio), apprezzerò le vostre correzzioni. Inoltre, se conosci una categoria non presente in questa guida, apprezzerò eventuali aggiunte.
 
@@ -349,7 +349,7 @@ Se qualcosa fosse incorretta (specialmente riguardo i casi di studio), apprezzer
 ### Licenza e attribuzione
 Questa guida è disponibile sotto licenza "Creative Commons CC0 1.0 License", sei libero di usarla per qualsiasi scopo, commerciale e non commerciale, senza dover citare l'autore originale (dominio pubblico). 
 
-La versione in lingua italiana è stata curata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)); il documento tradotto mantiene la stessa licenza dell'originale. Il testo è stato adattato dove necessario per adeguarsi alla legislazione italiana e presenta alcune modifiche rispetto al documento originale.
+La versione in lingua italiana è stata curata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)); la versione italiana mantiene la stessa licenza dell'originale.
 
 ####Nota dall'autore originale
 Se utilizzi questa guida, mi piacerebbe venirne a conoscenza! (Contattami a: [@nayafia](http://twitter.com/nayafia)) Ovviamente non sei obbligato a contattarmi.
