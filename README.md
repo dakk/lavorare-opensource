@@ -10,23 +10,23 @@ Le categorie non si escludono mutualmente. Per esempio, un progetto potrebbe ave
 
 # Sommario dei contenuti
 1. [Pulsante di donazione](#donation-button)
-2. [Bounties](#bounties)
+2. [Bounty](#bounties)
 3. [Raccolta fondi iniziale](#crowdfunding-one-time)
 4. [Raccolta fondi ricorrente](#crowdfunding-recurring)
 5. [Libri e merchandise](#books-and-merchandise)
-6. [Pubblicità & sponsorizzazioni](#advertising--sponsorships)
+6. [Pubblicità e sponsorizzazioni](#advertising--sponsorships)
 7. [Farti assumere da un'azienda per lavorare al progetto](#get-hired-by-a-company-to-work-on-project)
 8. [Iniziare un progetto mentre si è assunti in un'azienda](#start-a-project-while-currently-employed)
 9. [Grant](#grants)
-10. [Consulenza & servizi](#Svantaggiulting--services)
+10. [Consulenza e servizi](#Svantaggiulting--services)
 11. [SaaS](#saas)
 12. [Licenza freemium](#freemium-license)
 13. [Doppia licenza](#dual-license)
 14. [Open core](#open-core)
-15. [Fondazioni & consorzi](#foundations--consortiums)
+15. [Fondazioni e consorzi](#foundations--consortiums)
 16. [Venture capital](#venture-capital)
 
-APPENDICE: [Contribuire a questa guida](#contributing-to-this-guide) // [Licenza & attribuzione](#license-and-attribution)
+APPENDICE: [Contribuire a questa guida](#contributing-to-this-guide) // [Licenza e attribuzione](#license-and-attribution)
 TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForOpenSource // [Inglese(english)](https://github.com/nayafia/lemonade-stand)
 
 **le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è interessato un singolo utente e non un progetto
@@ -58,8 +58,8 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * Molto popolare per i task relativi alla sicurezza
 
 ####Svantaggi
-* Can create perverse incentives in a project (PR di bassa qualità, distrazione dalle priorità del progetto)
-* Usually not much money per bounty (~<$500)
+* Potrebbe creare meccanismi perversi nel progetto (codice di bassa qualità, distrazione dalle priorità del progetto)
+* Solitamente il compenso per un bounty non è molto alto (~<€500)
 * Non fornisce un entrata costante
 
 ####Casi di studio
@@ -74,10 +74,10 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * Può essere semplice da gestire (legalmente) tramite servizi come [Kickstarter](https://kickstarter.com/)
 
 ####Svantaggi
-* Lots of work involved to market campaign
-* Usually has to be tied to concrete outcome, perks
-* Usually not that much money (~$50K for one time)
-* Companies not always comfortable donating to campaigns
+* Molto lavoro necessario per curare la campagna di raccolta
+* I donatori si aspettano solitamente un risultato concreto dalla raccolta fondi, e quindi dei vantaggi
+* Solitamente non raccolgono molti fondi (~€50.000)
+* Le aziende spesso non sono a loro agio nel donare in una raccolta fondi
 
 ####Casi di studio
 * [Michal Papis + Rvm (sforzo personale)](https://www.bountysource.com/teams/rvm/fundraiser)
@@ -93,10 +93,10 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * Può essere semplice da gestire (legalmente) tramite servizi come [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Gratipay](https://gratipay.com/) e [OpenCollective](https://opencollective.com)
 
 ####Svantaggi
-* Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
-* Harder to explain concrete outcomes, perks that come with recurring donations
-* Usually not that much money (~$1-4K monthly)
-* Companies not always comfortable donating to campaigns
+* Difficile trovare utenti disposti a donare per più di una volta (è necessario che il progetto sia già popolare ed utilizzato)
+* I donatori si aspettano solitamente un risultato concreto dalla raccolta fondi, e quindi dei vantaggi; nelle raccolte ricorrenti questo aspetto è più accentuato
+* Solitamente non raccolgono molti fondi (~€1.000-4.000 mensili)
+* Le aziende spesso non sono a loro agio nel donare in una raccolta fondi
 
 ####Casi di studio
 * [MochaJS](https://opencollective.com/mochajs)
@@ -105,7 +105,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Tom Christie + Django REST framework (sforzo personale)](https://fund.django-rest-framework.org/topics/funding/)
 * [Ruby Together](https://rubytogether.org)
 
-##Books and merchandise
+##Libri e merchandise
 *Se sei un esperto in un determinato campo che altre persone reputano interessante o del quale vogliono acquisire maggiori conoscenze, puoi scrivere e vendere un libro o una serie di libri a riguardo. Puoi trovare un editore (come O'Reilly per esempio) oppure pubblicarlo autonomamente. Oltre ai libri, alcuni progetti vendono anche merchandise (come magliette, portachiavi, adesivi) per supportare il loro lavoro.*
 
 ####Vantaggi
@@ -125,22 +125,22 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Kyle Simpson + You Don't Know JS (sforzo personale)](https://github.com/getify/You-Dont-Know-JS)
 * [CocoaPods (fundraising for charity)](https://cocoapods.org/socks)
 
-##Pubblicità & sponsorizzazioni
-*If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them. You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.*
+##Pubblicità e sponsorizzazioni
+*Se il tuo progetto ha un vasto numero di utenti, puoi vendere delle sponsorizzazioni alle aziende che sono interessate alla tipologia di utenti che utilizzano il tuo progetto. Probabilmente avrai un pubblico dagli interessi ben definiti (per esempio in un progetto Python, puoi assumere che i tuoi utenti sono familiari con Python), quindi puoi utilizzare questa caratteristica a tuo vantaggio.*
 
 ####Vantaggi
 * Business model aligned with something people are willing to pay for
 
 ####Svantaggi
-* Need large enough audience to justify sponsorships
-* Need to manage trust and transparency with user base (ex. no tracking)
-* Can be a lot of work to find and manage clients
+* E' necessario un gran numero di utenti per giustificare una sponsorizzazione
+* Bisogna mantenere la fiducia e la trasparenza con gli utenti (per esempio, non tracciando gli utenti)
+* Può essere molto dispendioso in termini di tempo trovare nuovi clienti
 
 ####Casi di studio
 * [Read the Docs](http://blog.readthedocs.com/ads-on-read-the-docs/)
 * [Hoodie](http://hood.ie/sponsoring/)
 
-##Get hired by a company to work on project
+##Farti assumere da un'azienda per lavorare al progetto
 *Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
 
 ####Vantaggi
@@ -161,15 +161,15 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Aaron Patterson + ManageIQ and Ruby, Rails (sforzo personale)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (sforzo personale)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
-##Start a project while currently employed
+##Iniziare un progetto mentre si è assunti in un'azienda
 *Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
 
 *If you pursue this path, make sure you understand your company's policy on open source work. Some companies encourage employees to contribute to open source during working hours. Some might treat your open source work as a company project. Don't assume anything; ask someone at your company before starting.*
 
 ####Vantaggi
-* Freedom to test new ideas without worrying about salary
-* Can be well-aligned with company needs
-* Suitable for newer, experimental ideas
+* Libertà di dedicarsi a nuove idee senza la preoccupazione del salario
+* Può essere ben allineato con le necesità dell'azienda
+* Ideale per idee nuove e sperimentali
 
 ####Svantaggi
 * Need to do it as a side project or be approved to work on it during salaried time
@@ -201,7 +201,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
-##Consulenza & servizi
+##Consulenza e servizi
 *La consulenza è un ottimo modo per ricevere fondi per un progetto open-source. Hai più libertà nella gestione del tempo (per esempio, consulenze per 30 ore alla settimana e 10 ore per lo sviluppo). I consulenti sono pagati solitamente di più rispetto ad un dipendente salariato in quanto il loro lavoro è meno costante, non ricevono benefici, ecc. Se hai pianificato di fare questo tipo di attività regolarmente, può essere necessario istituire una SRL (od un tipo di società equivalente in un altro stato).*
 
 *Se il tuo progetto è popolare, puoi anche offrire consulenza e servizi riguardanti il progetto stesso. Per esempio, un cliente potrebbe pagarti per implementare il progetto per conto loro, creare delle funzionalità custom, o istruirli riguardo l'utilizzo del software.*
@@ -297,7 +297,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Mesosphere](https://mesosphere.com/)
 * [Sidekiq](http://sidekiq.org/)
 
-##Fondazioni & consorzi
+##Fondazioni e consorzi
 *Una [fondazione](https://it.wikipedia.org/wiki/Fondazione_(ente)) è un entità legale che può accettare o emanare donazioni. Dato che il suo scopo primario non è fare profitto, possono essere un ottima scelta per guidare un progetto in modo neutrale. In Italia, le fondazioni vengono classificate come organizzazioni non a scopo di lucro (anche note come no-profit).
 
 
