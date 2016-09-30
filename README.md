@@ -11,8 +11,8 @@ Le categorie non si escludono mutualmente. Per esempio, un progetto potrebbe ave
 # Sommario dei contenuti
 1. [Pulsante di donazione](#donation-button)
 2. [Bounties](#bounties)
-3. [Crowdfunding (una volta)](#crowdfunding-one-time)
-4. [Crowdfunding (ricorrente)](#crowdfunding-recurring)
+3. [Raccolta fondi iniziale](#crowdfunding-one-time)
+4. [Raccolta fondi ricorrente](#crowdfunding-recurring)
 5. [Libri e merchandise](#books-and-merchandise)
 6. [Pubblicità & sponsorizzazioni](#advertising--sponsorships)
 7. [Farti assumere da un'azienda per lavorare al progetto](#get-hired-by-a-company-to-work-on-project)
@@ -26,10 +26,10 @@ Le categorie non si escludono mutualmente. Per esempio, un progetto potrebbe ave
 15. [Fondazioni & consorzi](#foundations--consortiums)
 16. [Venture capital](#venture-capital)
 
-APPENDICE: [Contribuire a questa guida](#contributing-to-this-guide) // [Licenza & attribuzione](#license-and-attribution)  
+APPENDICE: [Contribuire a questa guida](#contributing-to-this-guide) // [Licenza & attribuzione](#license-and-attribution)
 TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForOpenSource // [Inglese(english)](https://github.com/nayafia/lemonade-stand)
 
-**le note "sforzo personale" when a funding effort was led by an individual, not a project*
+**le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è interessato un singolo utente e non un progetto
 
 ##Pulsante di donazione
 *Inserisci un pulsante di donazione nel tuo sito. Stripe e PayPal sono alcuni esempi di servizi che ti permettono di accettare donazioni.*
@@ -66,7 +66,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Bountysource](http://bountysource.com)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 
-##Crowdfunding (one-time)
+##Raccolta fondi iniziale
 *Se hai un'idea specifica che ti piacerebbe implementare (piuttosto che un progetto già avviato), una campagna di raccolta fondi iniziale può aiutare a raccimolare il denaro necessario. Sia singoli utenti che aziende potrebbero essere interessate a donare per la tua campagna.*
 
 ####Vantaggi
@@ -85,7 +85,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [ribasushi + CPAN (sforzo personale)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 
-##Crowdfunding (recurring)
+##Raccolta fondi ricorrente
 *Se necessiti un finanziamento per un progetto in corso, puoi creare una raccolta fondi ricorrente nel tempo, con cadenza mensile o annuale. Coloro che utilizzano il tuo progetto regolarmente (sia singoli che aziende) potrebbero essere interessati a finanziare il tuo lavoro.*
 
 ####Vantaggi
@@ -202,18 +202,20 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 ##Consulenza & servizi
-*Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
+*La consulenza è un ottimo modo per ricevere fondi per un progetto open-source. Hai più libertà nella gestione del tempo (per esempio, consulenze per 30 ore alla settimana e 10 ore per lo sviluppo). I consulenti sono pagati solitamente di più rispetto ad un dipendente salariato in quanto il loro lavoro è meno costante, non ricevono benefici, ecc. Se hai pianificato di fare questo tipo di attività regolarmente, può essere necessario istituire una SRL (od un tipo di società equivalente in un altro stato).*
 
-*If your project is popular, you can also offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
+*Se il tuo progetto è popolare, puoi anche offrire consulenza e servizi riguardanti il progetto stesso. Per esempio, un cliente potrebbe pagarti per implementare il progetto per conto loro, creare delle funzionalità custom, o istruirli riguardo l'utilizzo del software.*
+
 
 ####Vantaggi
-* Business model aligned with something people are willing to pay for
+* Le aziende sono spesso disposte a pagare per attività di consulenza
 
 ####Svantaggi
-* Consulting requires human power, doesn’t scale well (except for rare outliers)
-* Business needs can distract from writing code or other tasks related to the project itself
-* Can be at odds with making software simple to use
-* Project needs to be sufficiently popular that people are willing to pay for related services
+* Le consulenze richiedono tempo e risorse umane, è difficile scalare questo approccio
+* Le necessità del business possono distrarre dalla scrittura del codice e da altre attività legate al progetto
+* Può essere in contrasto con la realizzazione di un software semplice da utilizzare
+* Per essere disposti a pagare per servizi correlati ad esso, il progetto necessità di avere sufficiente popolarità
+
 
 ####Casi di studio
 * [Neighbourhoodie](https://neighbourhood.ie/)
@@ -244,16 +246,17 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 ##Licenze freemium
 *Le licenze "Freemium" non sono open-source, in quanto non offrono contemporaneamente tutte le [libertà richieste](https://en.wikipedia.org/wiki/The_Open_Source_Definition) da una licenza opensource (per esempio, il codice sorgente non è allo stesso tempo visibile liberamente e disponibile per la redistribuzione e modifica). Still, they are tangentially related to open source work.*
 
-*A freemium license restricts some open source freedoms to commercial terms. For example, they might make the source code visible, but require a commercial license to use the code.*
+*Una licenza freemium restringe alcune libertà dell'open-source; per esempio il codice potrebbe essere visibile, ma viene richiesta una licenza commerciale per utilizzarlo.*
+
 
 ####Vantaggi
 * Business model aligned with something people are willing to pay for
-* Potential to scale well if successful
-* Better for end user products
+* Alto potenziale di scalabilità
+* Adatto per prodotti end-user
 
 ####Svantaggi
-* Not actually open source
-* Still a new area of exploration (though related to the [shareware](https://en.wikipedia.org/wiki/Shareware) movement), not well proven
+* Non propriamente definibile open-source
+* Ancora un area in esplorazione (correlato al movimento [shareware](https://en.wikipedia.org/wiki/Shareware)) e non ancora ben collaudato
 
 ####Casi di studio
 * [Fair Source](https://fair.io/), used by [Sourcegraph](https://sourcegraph.com/)
@@ -261,29 +264,30 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 
 
 ##Doppia license
-*Sometimes, projects offer an identical codebase with two different licenses: one that is commercially-friendly, and one that is less so (ex. GPL). The latter is free for anyone to use, but companies pay for the commercial license in order to have legal peace of mind.*
+*A volte, un progetto può offrire lo stesso codice con due differenti licenze: una licenza commerciale ed una open-source (per esempio GPL). La seconda è gratuita per chiunque, ma le aziende pagano la prima per stare tranquille legalmente.*
 
 ####Vantaggi
 * Business model aligned with something people are willing to pay for
-* Can scale well if successful
+* Alto potenziale di scalabilità
 
 ####Svantaggi
 * Can be at odds with making software freely accessible
-* Project needs to be big enough that customer need exists
+* Il progetto deve essere abbastanza grande in modo da motivare la sua esistenza ed il pagamento di una licenza commerciale
+
 
 ####Casi di studio
 * [MySQL](http://www.mysql.com/about/legal/licensing/oem/)
 * [SQLite](https://www.sqlite.org/copyright.html)
 
-##Open core
-*Under an [open core](https://en.wikipedia.org/wiki/Open_core) model, some aspects of the project are free, but other features are proprietary and available only to paid users. Usually this works when there is enterprise demand for the project.*
+##Open core (Nucleo aperto)
+*In un modello [open core](https://en.wikipedia.org/wiki/Open_core), alcune parti del progetto sono gratuite, mentre altre funzionalità sono proprietarie e disponibili solo per utenti paganti. Solitamente questo modello funziona quando c'è una richiesta di funzionalità enterprise del prodotto.*
 
 ####Vantaggi
 * Business model aligned with something people are willing to pay for
-* Can scale well if successful
+* Alto potenziale di scalabilità
 
 ####Svantaggi
-* Need to have something you can charge for (which means making certain features exclusive)
+* Il progetto deve possedere delle funzionalità che possono essere rese a pagamento (quindi avere delle funzionalità esclusive per le quali qualcuno pagherebbe)
 * Can be at odds with making software freely accessible
 * “Two tiers” of product support can make free users unhappy
 
@@ -294,7 +298,8 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Sidekiq](http://sidekiq.org/)
 
 ##Fondazioni & consorzi
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
+*Una [fondazione](https://it.wikipedia.org/wiki/Fondazione_(ente)) è un entità legale che può accettare o emanare donazioni. Dato che il suo scopo primario non è fare profitto, possono essere un ottima scelta per guidare un progetto in modo neutrale. In Italia, le fondazioni vengono classificate come organizzazioni non a scopo di lucro (anche note come no-profit).
+
 
 ####Vantaggi
 * Neutralità. Le fondazioni proteggono il codice ed aiutano lo svilupo della comunità attorno al software. 
@@ -334,7 +339,9 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 
 ### Contribuire alla guida
 
-Ho scritto questa guida per aggregare le mie conoscenze riguardo questo tema, ma non prevedo di aggiungere ulteriori contributi o cambiamenti. Riconosco che i vantaggi e svantaggi descritti sono soggettivi, dunque rispecchiano il mio punto di vista.
+L'autore originale ha scritto questa guida per aggregare le sue conoscenze riguardo questo tema, e non prevede l'aggiunta di ulteriori contributi o cambiamenti. I vantaggi e svantaggi descritti sono soggettivi, dunque rispecchiano il punto di vista dell'autore originale.
+
+Al contrario del documento originale, la versione italiana accetterà ulteriori integrazioni, modifiche e suggerimenti.
 
 Se qualcosa fosse incorretta (specialmente riguardo i casi di studio), apprezzerò le vostre correzzioni. Inoltre, se conosci una categoria non presente in questa guida, apprezzerò eventuali aggiunte.
 
@@ -342,7 +349,7 @@ Se qualcosa fosse incorretta (specialmente riguardo i casi di studio), apprezzer
 ### Licenza e attribuzione
 Questa guida è disponibile sotto licenza "Creative Commons CC0 1.0 License", sei libero di usarla per qualsiasi scopo, commerciale e non commerciale, senza dover citare l'autore originale (dominio pubblico). 
 
-La versione in lingua italiana è stata curata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)); il documento tradotto mantiene la stessa licenza dell'originale. 
+La versione in lingua italiana è stata curata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)); il documento tradotto mantiene la stessa licenza dell'originale. Il testo è stato adattato dove necessario per adeguarsi alla legislazione italiana e presenta alcune modifiche rispetto al documento originale.
 
 ####Nota dall'autore originale
 Se utilizzi questa guida, mi piacerebbe venirne a conoscenza! (Contattami a: [@nayafia](http://twitter.com/nayafia)) Ovviamente non sei obbligato a contattarmi.
