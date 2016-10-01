@@ -1,7 +1,5 @@
-# Guida pratica su come guadagnare con l'open-source
 # Come trasformare l'open-source in un lavoro
-*Una guida per sviluppatori squattrinati*
-*"Lavoro con l'open-source, come posso guadagnare rendendolo quindi un lavoro?"*
+*Una guida pratica per sviluppatori squattrinati*
 
 In questa guida verranno illustrati tutti i metodi che conosco per venire pagati per i propri lavori open-source, grezzamente ordinati dal più piccolo al più grande. Ogni categoria contiene dei link ad esempi reali. (Dove possibile, ho provato a linkare ad articoli utili o pagine invece che a semplici homepage.).
 
@@ -342,20 +340,18 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForo
 
 ### Contribuire alla guida
 
-L'autore originale ha scritto questa guida per aggregare le sue conoscenze riguardo questo tema, e non prevede l'aggiunta di ulteriori contributi o cambiamenti. I vantaggi e svantaggi descritti sono soggettivi, dunque rispecchiano il punto di vista dell'autore originale.
-
-Al contrario del documento originale, la versione italiana accetterà ulteriori integrazioni, modifiche e suggerimenti. Il testo è stato inoltre adattato dove necessario per adeguarsi alla legislazione italiana e presenta alcune modifiche rispetto al documento originale.
-
-Se qualcosa fosse incorretta (specialmente riguardo i casi di studio), apprezzerò le vostre correzzioni. Inoltre, se conosci una categoria non presente in questa guida, apprezzerò eventuali aggiunte.
+Chiunque voglia contribuire a questa guida con ulteriori integrazioni, modifiche, nuove categorie e suggerimenti, può farlo tramite una pull-request o inserendo una issue nel repository. I vantaggi e svantaggi descritti sono soggettivi, dunque rispecchiano il punto di vista dell'autore e di coloro che hanno apportato delle modifiche.
 
 
 ### Licenza e attribuzione
-Questa guida è disponibile sotto licenza "Creative Commons CC0 1.0 License", sei libero di usarla per qualsiasi scopo, commerciale e non commerciale, senza dover citare l'autore originale (dominio pubblico). 
+Questa guida è disponibile sotto licenza "Creative Commons CC-BY 3.0 License", sei libero di usarla per qualsiasi scopo, commerciale e non commerciale, con il solo obbligo di citare l'autore originale. 
 
-La versione in lingua italiana è stata curata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)); la versione italiana mantiene la stessa licenza dell'originale.
+La guida è stata realizzata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)). Il documento si basa su un progetto in lingua inglese denominato [lemonade-stand](https://github.com/nayafia/lemonade-stand).
 
-####Nota dall'autore originale
-Se utilizzi questa guida, mi piacerebbe venirne a conoscenza! (Contattami a: [@nayafia](http://twitter.com/nayafia)) Ovviamente non sei obbligato a contattarmi.
 
 ### Donazioni
-Chi vuole può fare una donazione tramite Bitcoin all'indirizzo:
+Chi vuole può fare una donazione tramite Bitcoin all'indirizzo: 13gbybVyaYy5yA7Z7si2zJfo2Aat6d7c8z
+
+![Donation QR code](https://blockchain.info/qr?data=13gbybVyaYy5yA7Z7si2zJfo2Aat6d7c8z&size=200)
+
+
