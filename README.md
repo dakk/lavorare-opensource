@@ -25,9 +25,9 @@ Le categorie non si escludono mutualmente: per esempio, un progetto potrebbe ave
 15. [Fondazioni e consorzi](#fondazioni-e-consorzi)
 16. [Venture capital](#venture-capital)
 
-APPENDICE: [Contribuire a questa guida](#contribuire-a-questa-guida) // [Licenza e attribuzione](#licenza-e-attribuzione)
+Appendice: [Contribuire alla guida](#contribuire-a-questa-guida) // [Licenza e attribuzione](#licenza-e-attribuzione)
 
-TRADUZIONI: [Chinese (中文版)](https://github.com/wizicer/FinancialSupportForopen-source) // [Inglese (english)](https://github.com/nayafia/lemonade-stand)
+Traduzioni: [Chinese (中文版)](https://github.com/wizicer/FinancialSupportForopen-source) // [Inglese (english)](https://github.com/nayafia/lemonade-stand)
 
 **le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è stato interessato un singolo utente
 
