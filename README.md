@@ -387,6 +387,6 @@ La guida è stata realizzata da Davide Gessa ([@dakk](http://github.com/dakk), [
 ### Donazioni
 Chi vuole può fare una donazione tramite Bitcoin all'indirizzo: 13gbybVyaYy5yA7Z7si2zJfo2Aat6d7c8z
 
-![Donation QR code](https://blockchain.info/qr?data=13gbybVyaYy5yA7Z7si2zJfo2Aat6d7c8z&size=200 "Donation QR")
+![Donation QR code](https://raw.githubusercontent.com/dakk/lavorare-opensource/master/media/donateqr.png)
 
 
