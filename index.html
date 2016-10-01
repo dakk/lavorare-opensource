@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>Come trasformare l&#39;open-source in un lavoro by dakk</title>
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>Come trasformare l&#39;open-source in un lavoro</h1>
+        <h2>Una guida pratica per sviluppatori squattrinati</h2>
+        <a href="https://github.com/dakk/lavorare-opensource" class="button"><small>View project on</small> GitHub</a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h1>
+<a id="come-trasformare-lopen-source-in-un-lavoro" class="anchor" href="#come-trasformare-lopen-source-in-un-lavoro" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Come trasformare l'open-source in un lavoro</h1>
+
+<p><em>Una guida pratica per sviluppatori squattrinati</em></p>
+
+<p>In questa guida verranno illustrati alcuni dei metodi e tecniche utilizzabili per venire pagati lavorando con l'open-source; i metodi sono stati elencati in ordine crescente a seconda di quanto è possibile guadagnare con ogni metodo. Ogni categoria inoltre, contiene dei link ad esempi reali con relativi link ad articoli utili piuttosto che a semplici homepage di progetti (dove è stato possibile).</p>
+
+<p>Le categorie non si escludono mutualmente: per esempio, un progetto potrebbe avere una fondazione ed utilizzare una raccolta per ottenere fondi. Altri potrebbero fare consulenze ed allo stesso tempo avere un bottone di donazione e così via. L'obbiettivo di questa guida è fornire una lista esaustiva di tutti i metodi per ottenere fondi, in modo che ognuno possa individuare il migliore per il proprio progetto.</p>
+
+<hr>
+
+<h1>
+<a id="sommario-dei-contenuti" class="anchor" href="#sommario-dei-contenuti" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sommario dei contenuti</h1>
+
+<ol>
+<li><a href="#pulsante-di-donazione">Pulsante di donazione</a></li>
+<li><a href="#bounty">Bounty</a></li>
+<li><a href="#raccolta-fondi-iniziale">Raccolta fondi iniziale</a></li>
+<li><a href="#raccolta-fondi-ricorrente">Raccolta fondi ricorrente</a></li>
+<li><a href="#libri-e-merchandise">Libri e merchandise</a></li>
+<li><a href="#pubblicit%C3%A0-e-sponsorizzazioni">Pubblicità e sponsorizzazioni</a></li>
+<li><a href="#farti-assumere-da-un-azienda-per-lavorare-al-progetto">Farti assumere da un'azienda per lavorare al progetto</a></li>
+<li><a href="#iniziare-un-progetto-mentre-si-%C3%A8-assunti-in-un-azienda">Iniziare un progetto mentre si è assunti in un'azienda</a></li>
+<li><a href="#grant">Grant</a></li>
+<li><a href="#consulenza-e-servizi">Consulenza e servizi</a></li>
+<li><a href="#saas">SaaS</a></li>
+<li><a href="#licenza-freemium">Licenza freemium</a></li>
+<li><a href="#doppia-licenza">Doppia licenza</a></li>
+<li><a href="#open-core">Open core</a></li>
+<li><a href="#fondazioni-e-consorzi">Fondazioni e consorzi</a></li>
+<li><a href="#venture-capital">Venture capital</a></li>
+</ol>
+
+<p>APPENDICE: <a href="#contribuire-a-questa-guida">Contribuire a questa guida</a> // <a href="#licenza-e-attribuzione">Licenza e attribuzione</a></p>
+
+<p>TRADUZIONI: <a href="https://github.com/wizicer/FinancialSupportForopen-source">Chinese (中文版)</a> // <a href="https://github.com/nayafia/lemonade-stand">Inglese (english)</a></p>
+
+<p>**le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è stato interessato un singolo utente</p>
+
+<h2>
+<a id="pulsante-di-donazione" class="anchor" href="#pulsante-di-donazione" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Pulsante di donazione</h2>
+
+<p>Il metodo sicuramente più classico, è l'inserimento di un pulsante di donazione nel sito del progetto. Esistono alcuni servizi che ti permettono di aggiungere un pulsante di donazione in modo rapido e semplice, come ad esempio Stripe e PayPal. Un'altra possibilità è accettare donazioni tramite criptomonete come Bitcoin o Ethereum, in tal caso basta inserire l'immagine del QR code del proprio wallet.</p>
+
+<h4>
+<a id="vantaggi" class="anchor" href="#vantaggi" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Comporta poco sforzo per l'integrazione</li>
+<li>Il processo di integrazione del pulsante è da svolgere una sola volta</li>
+</ul>
+
+<h4>
+<a id="svantaggi" class="anchor" href="#svantaggi" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Solitamente i donatori sono pochi e donano poco, a meno che non venga dedicato del tempo a promuovere la raccolta fornendo dei vantaggi concreti ai donatori</li>
+<li>Necessita di una terza parte per accettare le donazioni, questo comporta la presenza di una percentuale trattenuta su ogni donazione. Questo non è però vero in caso di donazioni tramite criptomonete.</li>
+<li>Per ottenere donazioni senza che il donatore venga tassato, in alcuni stati è necessario avere un'organizzazione no-profit per accettare donazioni, difficilmente gestibili da singole persone. E' però possibile appoggiarsi ad entità già formate come <a href="http://sfconservancy.org">SFC</a>, <a href="http://opencollective.com">OpenCollective</a>, e <a href="http://www.numfocus.org">NumFOCUS</a>.</li>
+<li>Molte volte non è chiaro chi merita i soldi raccolti con le donazioni o come verranno distribuiti tra gli sviluppatori del progetto. Un servizio come <a href="http://opencollective.com">OpenCollective</a> potrebbe aiutare a mitigare questo fatto.</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio" class="anchor" href="#casi-di-studio" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://twistedmatrix.com/trac/wiki/WhyDonate">Twisted</a></li>
+<li><a href="https://git-scm.com/sfc">Git</a></li>
+<li><a href="https://www.transmissionbt.com/">Transmission</a></li>
+</ul>
+
+<h2>
+<a id="bounty" class="anchor" href="#bounty" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Bounty</h2>
+
+<p>Tavolta, progetti e aziende pubblicano dei cosidetti "bounty" per svolgere del lavoro su un progetto open-source (per esempio "risolvi il bug ed ottieni 100€", oppure "implementa questa feature e ricevi 400€"). Ci sono vari servizi, alcuni elencati più avanti, che facilitano l'inserimento e la ricerca di bounty.</p>
+
+<h4>
+<a id="vantaggi-1" class="anchor" href="#vantaggi-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Apre alla partecipazione l'intera community</li>
+<li>Il denaro è destinato al adempimento di uno specifico task (più simile ad un pagamento che ad una donazione)</li>
+<li>Molto popolare per i task relativi alla sicurezza</li>
+</ul>
+
+<h4>
+<a id="svantaggi-1" class="anchor" href="#svantaggi-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Potrebbe creare meccanismi perversi nel progetto; per esempio codice di bassa qualità per ricevere il bounty in breve tempo e distrazione dalle priorità del progetto</li>
+<li>Solitamente il compenso per un bounty non è molto alto (&lt;=500€)</li>
+<li>Non fornisce un entrata costante</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-1" class="anchor" href="#casi-di-studio-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="http://bountysource.com">Bountysource</a></li>
+<li><a href="https://bounty.github.com/">GitHub Bug Bounty Program</a></li>
+</ul>
+
+<h2>
+<a id="raccolta-fondi-iniziale" class="anchor" href="#raccolta-fondi-iniziale" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Raccolta fondi iniziale</h2>
+
+<p>Se hai un'idea specifica che ti piacerebbe implementare (piuttosto che un progetto già avviato), una campagna di raccolta fondi iniziale può aiutare a raccimolare il denaro necessario per finanziare lo sviluppo. Sia singoli utenti che aziende potrebbero essere interessate a donare per la tua campagna, in quanto interessati al software che andrai a sviluppare.</p>
+
+<h4>
+<a id="vantaggi-2" class="anchor" href="#vantaggi-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Lo sforzo per integrare la raccolta e per pubblicizzarla è da svolgere una sola volta</li>
+<li>Può essere semplice da gestire (legalmente) tramite servizi come <a href="https://kickstarter.com/">Kickstarter</a>
+</li>
+</ul>
+
+<h4>
+<a id="svantaggi-2" class="anchor" href="#svantaggi-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Molto lavoro necessario per curare la campagna di raccolta</li>
+<li>I donatori si aspettano solitamente un risultato concreto dalla raccolta fondi, e quindi dei vantaggi</li>
+<li>Solitamente non raccolgono una quantità sigificativa di fondi (~50.000€)</li>
+<li>Le aziende spesso non sono a loro agio nel donare in una raccolta fondi</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-2" class="anchor" href="#casi-di-studio-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://www.bountysource.com/teams/rvm/fundraiser">Michal Papis + Rvm (sforzo personale)</a></li>
+<li><a href="https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django">Andrew Godwin + Django (sforzo personale)</a></li>
+<li><a href="https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016">ribasushi + CPAN (sforzo personale)</a></li>
+<li><a href="https://poststatus.com/kickstarter-open-source-project/">RESTful WP-CLI</a></li>
+</ul>
+
+<h2>
+<a id="raccolta-fondi-ricorrente" class="anchor" href="#raccolta-fondi-ricorrente" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Raccolta fondi ricorrente</h2>
+
+<p>Se necessiti di un finanziamento per un progetto in corso, puoi creare una raccolta fondi ricorrente nel tempo, con cadenza mensile o annuale. Coloro che utilizzano il tuo progetto regolarmente (sia singoli che aziende) potrebbero essere interessati a finanziare il tuo lavoro periodicamente per aiutarlo a crescere.</p>
+
+<h4>
+<a id="vantaggi-3" class="anchor" href="#vantaggi-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Lo sforzo per integrare il sistema di raccolta è da svolgere una sola volta</li>
+<li>Può essere semplice da gestire (legalmente) tramite servizi come <a href="https://patreon.com">Patreon</a>, <a href="https://salt.bountysource.com/">Salt</a>, <a href="https://gratipay.com/">Gratipay</a> e <a href="https://opencollective.com">OpenCollective</a>
+</li>
+</ul>
+
+<h4>
+<a id="svantaggi-3" class="anchor" href="#svantaggi-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Difficile trovare utenti disposti a donare per più di una volta (è necessario che il progetto sia già popolare ed utilizzato)</li>
+<li>I donatori si aspettano solitamente un risultato concreto dalla raccolta fondi, e quindi dei vantaggi; nelle raccolte ricorrenti questo aspetto è più accentuato</li>
+<li>Solitamente non raccolgono una quantità sigificativa di fondi (~1.000€-4.000€ mensili)</li>
+<li>Le aziende spesso non sono a loro agio nel donare in una raccolta fondi</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-3" class="anchor" href="#casi-di-studio-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://opencollective.com/mochajs">MochaJS</a></li>
+<li><a href="https://opencollective.com/react-boilerplate">React-boilerplate</a></li>
+<li><a href="https://gratipay.com/jsbin/">jsbin</a></li>
+<li><a href="https://fund.django-rest-framework.org/topics/funding/">Tom Christie + Django REST framework (sforzo personale)</a></li>
+<li><a href="https://rubytogether.org">Ruby Together</a></li>
+</ul>
+
+<h2>
+<a id="libri-e-merchandise" class="anchor" href="#libri-e-merchandise" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Libri e merchandise</h2>
+
+<p>Se sei un esperto in un determinato settore che altre persone reputano interessante o del quale vogliono acquisire maggiori conoscenze, puoi scrivere e vendere un libro o una serie di libri a riguardo. Per la pubblicazione, è possibile trovare un editore (come O'Reilly per esempio) oppure pubblicarlo autonomamente (anche utilizzando servizi di self-publishing come <a href="https://kdp.amazon.com/">Amazon KDP</a>. </p>
+
+<p>Oltre ai libri, alcuni progetti vendono anche merchandise (come magliette, portachiavi, adesivi, cd) per supportare il loro lavoro.</p>
+
+<h4>
+<a id="vantaggi-4" class="anchor" href="#vantaggi-4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Il guadagno non deriva dal lavoro sul progetto, quindi hai una certa libertà creativa sul progetto stesso</li>
+<li>Può servire come metodo di marketing per pubblicizzare il progetto</li>
+<li>Può essere una fonte di guadagno ricorrente</li>
+</ul>
+
+<h4>
+<a id="svantaggi-4" class="anchor" href="#svantaggi-4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Spesso non sono una fonte di fondi significativa</li>
+<li>Può distrarre dallo sviluppo del progetto</li>
+<li>Il merchandise può avere dei costi da anticipare</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-4" class="anchor" href="#casi-di-studio-4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://www.lua.org/pil/">Lua</a></li>
+<li><a href="https://www.twoscoopspress.com/products/two-scoops-of-django-1-8">Daniel and Audrey Roy Greenfeld + Two Scoops of Django (sforzo personale)</a></li>
+<li><a href="http://www.poodr.com/">Sandi Metz + Practical Object-Oriented Design in Ruby (sforzo personale)</a></li>
+<li><a href="https://github.com/getify/You-Dont-Know-JS">Kyle Simpson + You Don't Know JS (sforzo personale)</a></li>
+<li><a href="https://cocoapods.org/socks">CocoaPods (fundraising for charity)</a></li>
+</ul>
+
+<h2>
+<a id="pubblicità-e-sponsorizzazioni" class="anchor" href="#pubblicit%C3%A0-e-sponsorizzazioni" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Pubblicità e sponsorizzazioni</h2>
+
+<p>Se il tuo progetto ha un vasto numero di utenti, puoi vendere delle sponsorizzazioni e affittare spazi pubblicitari alle aziende che sono interessate alla tipologia di utenti che utilizzano il tuo progetto. Il tuo progetto probabilmente avrà un pubblico dagli interessi ben definiti (per esempio in un progetto Python, puoi assumere che i tuoi utenti sono familiari con Python), quindi puoi utilizzare questa caratteristica a tuo vantaggio.</p>
+
+<h4>
+<a id="vantaggi-5" class="anchor" href="#vantaggi-5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Nessuna influenza esterna sul progetto; i potenziali clienti per la sponsorizzazione sono già il linea con la tipologia di utenti attirati dal tuo progetto</li>
+</ul>
+
+<h4>
+<a id="svantaggi-5" class="anchor" href="#svantaggi-5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>E' necessario un gran numero di utenti per giustificare una sponsorizzazione</li>
+<li>Bisogna mantenere la fiducia e la trasparenza (per esempio, evitare di tracciare gli utenti)</li>
+<li>Può essere molto dispendioso in termini di tempo trovare nuovi clienti</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-5" class="anchor" href="#casi-di-studio-5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="http://blog.readthedocs.com/ads-on-read-the-docs/">Read the Docs</a></li>
+<li><a href="http://hood.ie/sponsoring/">Hoodie</a></li>
+</ul>
+
+<h2>
+<a id="farti-assumere-da-unazienda-per-lavorare-al-progetto" class="anchor" href="#farti-assumere-da-unazienda-per-lavorare-al-progetto" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Farti assumere da un'azienda per lavorare al progetto</h2>
+
+<p>Le aziende a volte assumono nuovi dipendenti con lo scopo di farli lavorare allo sviluppo di software open-source. Puoi quindi trovare un'azienda che usa un progetto al quale vorresti lavorare e proporti come sviluppatore. </p>
+
+<p>A questa tipologia di dipendenti viene spesso proposto un contratto che prevede, per esempio, il 50% di lavoro per l'azienda ed il 50% di lavoro al progetto open-source. </p>
+
+<p>Alternativamente, se hai un'idea per un nuovo progetto, puoi trovare un'azienda che potrebbe essere interessata nell'utilizzarlo: in questi casi, avere dell'esperienza dimostrata nel campo dello sviluppo open-source può essere molto utile come referenza.</p>
+
+<h4>
+<a id="vantaggi-6" class="anchor" href="#vantaggi-6" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Vieni pagato direttamente da chi ha già dei soldi destinati per questo tipo di attività</li>
+<li>Lavorerai ad un progetto già in linea con le esigenze dell'azienda</li>
+<li>Entrate costanti</li>
+</ul>
+
+<h4>
+<a id="svantaggi-6" class="anchor" href="#svantaggi-6" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Bisogna essere fortunati e fare molti tentativi: non esiste un modo prestabilito per attuare questo tipo di soluzione</li>
+<li>Il progetto deve essere già conosciuto ed usato</li>
+<li>Un dipendente che lavora ad un progetto open-source non contribuisce direttamente al profitto dell'azienda, quindi questo tipo di dipendenti saranno potenzialmente i primi ad essere sacrificati in caso di riallineamento del bilancio aziendale</li>
+<li>Problemi di governance, l'azienda potrebbe influenzare le direzioni del progetto</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-6" class="anchor" href="#casi-di-studio-6" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://twitter.com/dstufft/status/594119386333609984">Donald Stufft + Hewlett-Packard and Python packaging (sforzo personale)</a></li>
+<li><a href="http://www.bizjournals.com/triangle/news/2013/09/17/durhams-relevance-to-merge-with.html?full=true">Rich Hickey + Cognitect and Clojure</a></li>
+<li><a href="http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/">Aaron Patterson + ManageIQ and Ruby, Rails (sforzo personale)</a></li>
+<li><a href="http://www.youtube.com/watch?v=SAc0vQCC6UQ&amp;t=29m20s">Ryan Dahl + Joyent and Node.js (opens a YouTube video) (sforzo personale)</a></li>
+</ul>
+
+<h2>
+<a id="iniziare-un-progetto-mentre-si-è-assunti-in-unazienda" class="anchor" href="#iniziare-un-progetto-mentre-si-%C3%A8-assunti-in-unazienda" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Iniziare un progetto mentre si è assunti in un'azienda</h2>
+
+<p>Molti progetti open-source iniziano come side-project di un dipendente di un'azienda. Il progetto può poi svilupparsi anche al di fuori dell'azienda, ma iniziarlo come side-project è un ottimo modo per incubare ed iniziare nuove idee.</p>
+
+<p>Se vuoi seguire questa strada, assicurati di aver capito le politiche dell'azienda riguardo la produzione di software open-source. Alcune aziende incoraggiano i dipendenti a contribuire all'open-source durante le ore lavorative, mentre altre potrebbero trattare il tuo lavoro open-source come un prodotto dell'azienda. Non dare nulla per scontato, chiedi ai tuoi datori di lavori prima di iniziare.</p>
+
+<h4>
+<a id="vantaggi-7" class="anchor" href="#vantaggi-7" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Libertà di dedicarsi a nuove idee senza la preoccupazione del salario</li>
+<li>Il progetto sarà già ben allineato con le necesità dell'azienda</li>
+<li>Ideale per nuove idee e sperimentazioni</li>
+</ul>
+
+<h4>
+<a id="svantaggi-7" class="anchor" href="#svantaggi-7" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Necessità di iniziare il lavoro come side-project e di essere approvato come lavoro durante le ore stipendiate</li>
+<li>Rischio di influenza sul progetto da parte della società</li>
+<li>Può portare a complicanze nella governance del progetto col passare del tempo</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-7" class="anchor" href="#casi-di-studio-7" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla">Mozilla and Rust</a></li>
+<li><a href="https://golang.org/doc/faq#history">Google and Go</a></li>
+<li><a href="https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17">Facebook and React</a></li>
+<li><a href="http://futurice.com/blog/sponsoring-free-time-open-source-activities">Futurice's open-source program</a></li>
+</ul>
+
+<h2>
+<a id="grant" class="anchor" href="#grant" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Grant</h2>
+
+<p>I Grant sono grosse donazioni che non richiedono una restituzione. Spesso chi emana i grant riceve altri benefici, come per esempio delle richieste di feature da integrare, un report del lavoro svolto o benefici riguardanti le tasse.</p>
+
+<p>I grant possono arrivare da diverse fonti, incluse aziende, fondazioni software, fondazioni filantropiche o dal governo. L'aspetto tecnico e legale di un grant varia a seconda della fonte: per esempio, un'azienda potrebbe darti un grant ma trattarlo legalmente come una fattura di consulenza. Una fondazione filantropica può inviare grant solo a no-profit, quindi dovresti avere una no-profit anche tu, o (più comunemente) trovare una no-profit che ti sponsorizzi. </p>
+
+<p>Se non sei familiare coi grant, il miglior modo per capire come funzionano è parlare con qualcuno che ne ha ricevuto uno. Alcuni esempi di progetti che hanno ricevuto un grant li puoi trovare più avanti.</p>
+
+<h4>
+<a id="vantaggi-8" class="anchor" href="#vantaggi-8" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Dei fondi garantiti possono aiutarti a focalizzarti nel progetto per un certo periodo di tempo</li>
+<li>Da al progetto un certo periodo di tranquillità nel fronte economico e la possibilità di sperimentare</li>
+</ul>
+
+<h4>
+<a id="svantaggi-8" class="anchor" href="#svantaggi-8" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Non esistono molti donatori di grant per progetti relativi a software </li>
+<li>I grant finiscono; devi comunque trovare un modo per sostenerti anche dopo aver terminato i soldi del grant</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-8" class="anchor" href="#casi-di-studio-8" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://usopendata.org/">Dat</a></li>
+<li><a href="https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4">Andrey Petrov + Stripe Open-Source Retreat and urllib3</a></li>
+<li><a href="https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/">Django + Mozilla open-source Support</a></li>
+</ul>
+
+<h2>
+<a id="consulenza-e-servizi" class="anchor" href="#consulenza-e-servizi" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Consulenza e servizi</h2>
+
+<p>La consulenza è un ottimo modo per ricevere fondi per un progetto open-source. Hai più libertà nella gestione del tempo (per esempio, consulenze per 30 ore alla settimana e 10 ore per lo sviluppo). I consulenti sono pagati solitamente di più rispetto ad un dipendente salariato in quanto il loro lavoro è meno costante, non ricevono benefici, ecc. Se hai pianificato di fare questo tipo di attività regolarmente, può essere necessario essere titolari di partita IVA o istituire una SRL.</p>
+
+<p>Se il tuo progetto è popolare, puoi anche offrire consulenza e servizi riguardanti il progetto stesso. Per esempio, un cliente potrebbe pagarti per implementare nuove feature per loro conto, modificare feature esistenti, o istruirli riguardo l'utilizzo del software.</p>
+
+<h4>
+<a id="vantaggi-9" class="anchor" href="#vantaggi-9" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Le aziende sono spesso disposte a pagare per attività di consulenza</li>
+</ul>
+
+<h4>
+<a id="svantaggi-9" class="anchor" href="#svantaggi-9" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Le consulenze richiedono tempo e risorse umane, è difficile scalare questo approccio</li>
+<li>Le necessità del business possono distrarre dalla scrittura del codice e da altre attività legate al progetto</li>
+<li>Può essere in contrasto con la realizzazione di un software semplice da utilizzare</li>
+<li>Per essere disposti a pagare per servizi correlati ad esso, il progetto necessità di avere sufficiente popolarità</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-9" class="anchor" href="#casi-di-studio-9" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://neighbourhood.ie/">Neighbourhoodie</a></li>
+<li><a href="http://baroquesoftware.com/">Baroque Software</a></li>
+<li><a href="http://openssl.com/what.html">OpenSSL</a></li>
+</ul>
+
+<h2>
+<a id="saas" class="anchor" href="#saas" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SaaS</h2>
+
+<p>SaaS è l'acronimo di <a href="https://en.wikipedia.org/wiki/Software_as_a_service">Software as a Service</a>. In questo modello, il codice principale è open-source, ma puoi offrire servizi aggiuntivi a pagamento che permettono ad altre persone di utilizzare il tuo progetto con facilità. Un esempio di servizio a pagamento potrebbe essere far pagare per l'hosting.</p>
+
+<h4>
+<a id="vantaggi-10" class="anchor" href="#vantaggi-10" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Può contribuire a creare una community di utilizzatori del tuo progetto</li>
+<li>Permette di focalizzarsi sui singoli utenti e col tempo, facilita l'adozione da parte di aziende</li>
+<li>Può scalare a seconda del numero di utenti</li>
+</ul>
+
+<h4>
+<a id="svantaggi-10" class="anchor" href="#svantaggi-10" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Se si sceglie la strada dell'hosting come servizio, i costi di hosting devono almeno essere inferiori rispetto al costo offerto agli utenti</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-10" class="anchor" href="#casi-di-studio-10" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="http://wordpress.com/">WordPress.com</a></li>
+<li><a href="https://moodle.org/">Moodle</a></li>
+<li><a href="https://forge.laravel.com/">Forge Laravel</a></li>
+<li><a href="https://gitlab.com">GitLab</a></li>
+<li><a href="https://getsentry.com/">Sentry</a></li>
+<li><a href="https://travis-ci.org/">Travis CI</a></li>
+<li><a href="https://ghost.org/">Ghost</a></li>
+</ul>
+
+<h2>
+<a id="licenze-freemium" class="anchor" href="#licenze-freemium" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Licenze freemium</h2>
+
+<p>Le licenze "Freemium" non sono open-source, in quanto non offrono contemporaneamente tutte le <a href="https://en.wikipedia.org/wiki/The_Open_Source_Definition">libertà richieste</a> da una licenza open-source (per esempio, il codice sorgente non è allo stesso tempo visibile liberamente e disponibile per la redistribuzione e modifica). </p>
+
+<p>Una licenza freemium restringe alcune libertà dell'open-source; per esempio il codice potrebbe essere visibile, ma viene richiesta una licenza commerciale per utilizzarlo.</p>
+
+<h4>
+<a id="vantaggi-11" class="anchor" href="#vantaggi-11" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Vieni pagato direttamente da chi ha necessità ad usare un prodotto come quello che offri</li>
+<li>Alto potenziale di scalabilità</li>
+<li>Adatto per prodotti end-user</li>
+</ul>
+
+<h4>
+<a id="svantaggi-11" class="anchor" href="#svantaggi-11" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Non propriamente definibile open-source</li>
+<li>Ancora un area in esplorazione (correlato al movimento <a href="https://en.wikipedia.org/wiki/Shareware">shareware</a>) e non ancora ben collaudato</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-11" class="anchor" href="#casi-di-studio-11" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li>
+<a href="https://fair.io/">Fair Source</a>, used by <a href="https://sourcegraph.com/">Sourcegraph</a>
+</li>
+<li>
+<a href="https://mariadb.com/bsl-faq-adopting">BSL (Business Source License)</a>, used by <a href="https://mariadb.com/">MariaDB</a>
+</li>
+</ul>
+
+<h2>
+<a id="doppia-license" class="anchor" href="#doppia-license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Doppia license</h2>
+
+<p>A volte, un progetto può offrire lo stesso codice con due differenti licenze: una licenza commerciale ed una open-source (per esempio GPL). La seconda è gratuita per chiunque, ma le aziende pagano la prima per stare tranquille legalmente.</p>
+
+<h4>
+<a id="vantaggi-12" class="anchor" href="#vantaggi-12" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Vieni pagato direttamente da chi ha necessità ad usare il tuo progetto</li>
+<li>Alto potenziale di scalabilità</li>
+</ul>
+
+<h4>
+<a id="svantaggi-12" class="anchor" href="#svantaggi-12" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Può essere un impedimento per la diffusione del progetto tra utenti che non se lo possono permettere</li>
+<li>Il progetto deve essere abbastanza grande in modo da motivare la sua esistenza ed il pagamento di una licenza commerciale</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-12" class="anchor" href="#casi-di-studio-12" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="http://www.mysql.com/about/legal/licensing/oem/">MySQL</a></li>
+<li><a href="https://www.sqlite.org/copyright.html">SQLite</a></li>
+</ul>
+
+<h2>
+<a id="open-core-nucleo-aperto" class="anchor" href="#open-core-nucleo-aperto" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Open core (Nucleo aperto)</h2>
+
+<p>In un modello <a href="https://en.wikipedia.org/wiki/Open_core">open core</a>, alcune parti del progetto sono open-source e gratuite, mentre altre funzionalità sono proprietarie e disponibili solo per utenti paganti. Solitamente questo modello funziona quando c'è una richiesta di funzionalità enterprise del prodotto.</p>
+
+<h4>
+<a id="vantaggi-13" class="anchor" href="#vantaggi-13" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Vieni pagato direttamente da chi ha necessità ad usare il tuo progetto e le sue funzionalità avanzate</li>
+<li>Alto potenziale di scalabilità</li>
+</ul>
+
+<h4>
+<a id="svantaggi-13" class="anchor" href="#svantaggi-13" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Il progetto deve possedere delle funzionalità che possono essere rese a pagamento (quindi avere delle funzionalità esclusive per le quali qualcuno pagherebbe)</li>
+<li>Può essere un impedimento per la diffusione del progetto tra utenti che non se lo possono permettere</li>
+<li>Alcuni utenti potrebbero non essere contenti di questa tua scelta a due livelli</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-13" class="anchor" href="#casi-di-studio-13" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="https://www.docker.com/">Docker</a></li>
+<li><a href="https://www.elastic.co/">Elastic</a></li>
+<li><a href="https://mesosphere.com/">Mesosphere</a></li>
+<li><a href="http://sidekiq.org/">Sidekiq</a></li>
+</ul>
+
+<h2>
+<a id="fondazioni-e-consorzi" class="anchor" href="#fondazioni-e-consorzi" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Fondazioni e consorzi</h2>
+
+<p>Una <a href="https://it.wikipedia.org/wiki/Fondazione_(ente)">fondazione</a> è un entità legale che può accettare o emanare donazioni. Dato che il suo scopo primario non è fare profitto, possono essere un ottima scelta per guidare un progetto in modo neutrale. In Italia, le fondazioni vengono classificate come organizzazioni non a scopo di lucro (anche note come no-profit).</p>
+
+<h4>
+<a id="vantaggi-14" class="anchor" href="#vantaggi-14" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Neutralità: le fondazioni proteggono il codice ed aiutano lo svilupo della comunità attorno al software</li>
+<li>L'influenza sul progetto è distribuita tra più donatori</li>
+<li>Può legittimare un progetto, nel senso che le aziende solitamente sono più a loro agio nel donare ad una fondazione piuttosto che ad un gruppo di individui non legalmente definito</li>
+</ul>
+
+<h4>
+<a id="svantaggi-14" class="anchor" href="#svantaggi-14" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>Vale la pena solo per grossi progetti</li>
+<li>Spese legali e di gestione, il processo di costituzione può prendere molto tempo</li>
+<li>Limitazioni definite dalla legge</li>
+<li>Richiede un contributo cospicuo della community e la presenza di diverse figure (per esempio legali e commerciali)</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-14" class="anchor" href="#casi-di-studio-14" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="http://rubytogether.org/">Ruby Together</a></li>
+<li><a href="https://www.python.org/psf/">Python Software Foundation</a></li>
+<li><a href="https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/">Node.js Foundation</a></li>
+</ul>
+
+<h2>
+<a id="venture-capital" class="anchor" href="#venture-capital" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Venture capital</h2>
+
+<p>I Venture capital sono un metodo di finanziamento per business a crescita rapida. Al contrario di prestiti bancari o ad altre forme di finanziamento tramite debito, i venture capital acquisiscono una equity (una quota percentuale di possesso del business) in cambio di un finanziamento. Il vantaggio rispetto ad un prestito è che nel caso di fallimento del progetto non devi ripagare un debito con qualcuno. Se invece il progetto ha successo, devi aspettarti di rendere il capitale investito dai VC ad un multiplo.</p>
+
+<p>I Venture capital sono fanno investimento ad "alto rischio" per una possibilità di un "alto profitto": sono quindi più tolleranti al rischio rispetto ad una banca, ma si aspettano un grande guadagno nel caso che il business abbia successo. Se pianifichi di ottenere dei fondi da un venture capital, è necessario creare una società legalmente riconosciuta: in Italia può essere una SRL. Se non sei familiare con il processo dei venture capital, il modo migliore per iniziare è contattare altri come te che hanno già ottenuto dei fondi da un venture.</p>
+
+<h4>
+<a id="vantaggi-15" class="anchor" href="#vantaggi-15" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vantaggi</h4>
+
+<ul>
+<li>Il supporto di un Venture capital può essere di aiuto per la creazione di un business</li>
+<li>Grande quantità di capitale disponibile</li>
+</ul>
+
+<h4>
+<a id="svantaggi-15" class="anchor" href="#svantaggi-15" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Svantaggi</h4>
+
+<ul>
+<li>I Venture capital finanziano i progetti nella prospettiva di una futura exit (ovvero la vendita delle proprie quote per un valore superiore all'investimento iniziale). L'esperienza suggerisce che questo è difficilmente attuabile con i business basati sull'open-source</li>
+<li>I Venture capital possono cambiare prospettiva, distraendo lo sviluppo dalle priorità reali</li>
+</ul>
+
+<h4>
+<a id="casi-di-studio-15" class="anchor" href="#casi-di-studio-15" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Casi di studio</h4>
+
+<ul>
+<li><a href="http://blog.npmjs.org/post/76320673650/funding">Npm</a></li>
+<li><a href="http://www.confluent.io/blog/confluent-raises-a-series-b-funding">Confluent</a></li>
+<li><a href="https://techcrunch.com/2015/02/09/nodesource-raises-3-million-to-build-new-programming-tools/">NodeSource</a></li>
+<li><a href="http://info.meteor.com/blog/announcing-our-20m-series-b-funding">Meteor</a></li>
+</ul>
+
+<hr>
+
+<h3>
+<a id="contribuire-alla-guida" class="anchor" href="#contribuire-alla-guida" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contribuire alla guida</h3>
+
+<p>Chiunque voglia contribuire a questa guida con ulteriori integrazioni, modifiche, nuove categorie e suggerimenti, può farlo tramite una pull-request o inserendo una issue nel repository. I vantaggi e svantaggi descritti sono soggettivi, dunque rispecchiano il punto di vista dell'autore e di coloro che hanno apportato delle modifiche.</p>
+
+<h3>
+<a id="licenza-e-attribuzione" class="anchor" href="#licenza-e-attribuzione" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Licenza e attribuzione</h3>
+
+<p>Questa guida è disponibile sotto licenza "Creative Commons CC-BY 3.0 License", sei libero di usarla per qualsiasi scopo, commerciale e non commerciale, con il solo obbligo di citare l'autore originale. </p>
+
+<p>La guida è stata realizzata da Davide Gessa (<a href="http://github.com/dakk">@dakk</a>, <a href="mailto:gessadavide@gmail.com">mail</a>). Il documento si basa su un progetto in lingua inglese denominato <a href="https://github.com/nayafia/lemonade-stand">lemonade-stand</a>.</p>
+
+<h3>
+<a id="donazioni" class="anchor" href="#donazioni" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Donazioni</h3>
+
+<p>Chi vuole può fare una donazione tramite Bitcoin all'indirizzo: 13gbybVyaYy5yA7Z7si2zJfo2Aat6d7c8z</p>
+
+<p><img src="https://blockchain.info/qr?data=13gbybVyaYy5yA7Z7si2zJfo2Aat6d7c8z&amp;size=200" alt="Donation QR code" title="Donation QR"></p>
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/dakk/lavorare-opensource/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/dakk/lavorare-opensource/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+
+          <p class="repo-owner"><a href="https://github.com/dakk/lavorare-opensource"></a> is maintained by <a href="https://github.com/dakk">dakk</a>.</p>
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+        </aside>
+      </div>
+    </div>
+
+  
+  </body>
+</html>
