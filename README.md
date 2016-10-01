@@ -1,7 +1,7 @@
 # Guida pratica su come guadagnare con l'open-source
-*"Lavoro con l'open source, come posso guadagnare rendendolo quindi un lavoro?"*
+*"Lavoro con l'open-source, come posso guadagnare rendendolo quindi un lavoro?"*
 
-In questa guida verranno illustrati tutti i metodi che conosco per venire pagati per i propri lavori open source, grezzamente ordinati dal più piccolo al più grande. Ogni categoria contiene dei link ad esempi reali. (Dove possibile, ho provato a linkare ad articoli utili o pagine invece che a semplici homepage.).
+In questa guida verranno illustrati tutti i metodi che conosco per venire pagati per i propri lavori open-source, grezzamente ordinati dal più piccolo al più grande. Ogni categoria contiene dei link ad esempi reali. (Dove possibile, ho provato a linkare ad articoli utili o pagine invece che a semplici homepage.).
 
 Le categorie non si escludono mutualmente. Per esempio, un progetto potrebbe avere una fondazione ma comunque utilizzare il crowdfunding per ottenere fondi. Altri potrebbero fare consulenze ed allo stesso tempo avere un bottone di donazione e così via. L'obbiettivo di questa guida è fornire una lista esaustiva di tutti i metodi per ottenere fondi, in modo che ognuno possa individuare il migliore per il proprio progetto.
 
@@ -17,7 +17,7 @@ Le categorie non si escludono mutualmente. Per esempio, un progetto potrebbe ave
 6. [Pubblicità e sponsorizzazioni](#advertising--sponsorships)
 7. [Farti assumere da un'azienda per lavorare al progetto](#get-hired-by-a-company-to-work-on-project)
 8. [Iniziare un progetto mentre si è assunti in un'azienda](#start-a-project-while-currently-employed)
-9. [Grant](#grants)
+9. [Grant](#grant)
 10. [Consulenza e servizi](#Svantaggiulting--services)
 11. [SaaS](#saas)
 12. [Licenza freemium](#freemium-license)
@@ -27,7 +27,7 @@ Le categorie non si escludono mutualmente. Per esempio, un progetto potrebbe ave
 16. [Venture capital](#venture-capital)
 
 APPENDICE: [Contribuire a questa guida](#contributing-to-this-guide) // [Licenza e attribuzione](#license-and-attribution)
-TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForOpenSource // [Inglese(english)](https://github.com/nayafia/lemonade-stand)
+TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForopen-source // [Inglese(english)](https://github.com/nayafia/lemonade-stand)
 
 **le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è interessato un singolo utente e non un progetto
 
@@ -50,7 +50,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Transmission](https://www.transmissionbt.com/)
 
 ##Bounties
-*A volte, progetti e aziende pubblicano dei "bounty" per svolgere del lavoro su un progetto opensource (per esempio "risolvi il bug ed ottieni $100). Ci sono vari siti internet, elencati più avanti, che facilitano l'inserimento e la ricerca di bounty.
+*A volte, progetti e aziende pubblicano dei "bounty" per svolgere del lavoro su un progetto open-source (per esempio "risolvi il bug ed ottieni $100). Ci sono vari siti internet, elencati più avanti, che facilitano l'inserimento e la ricerca di bounty.
 
 ####Vantaggi
 * Open to community participation
@@ -141,16 +141,16 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Hoodie](http://hood.ie/sponsoring/)
 
 ##Farti assumere da un'azienda per lavorare al progetto
-*Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
+*Le aziende a volte assumono personale per lavorare a software open-source. Trova un'azienda che usa un progetto al quale vorresti lavorare. Spesso viene proposto un contratto che prevede per esempio il 50% di lavoro per l'azienda ed il 50% di lavoro al progetto open-source. ALternativamente, se hai un'idea per un nuovo progetto, puoi trovare un'azienda che potrebbe essere interessata nell'utilizzare tale prodotto. In queste situazioni, avere dell'esperienza dimostrata having demonstrated experience you can point to will be very helpful.*
 
 ####Vantaggi
 * Taps into those who have resources (i.e. companies)
-* Can be well-aligned with company needs
-* Steady income
+* Può essere ben allineato con le necessità dell'azienda
+* Entrate costanti
 
 ####Svantaggi
-* Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
-* Project already needs to be well-known and used
+* Bisogna essere fortunati: non esiste un modo prestabilito per attuare questo tipo di soluzione
+* Il progetto deve essere già conosciuto ed usato
 * Person not contributing to company’s bottom line, which makes them expendable
 * Governance issues, company could have undue influence over project
 * Can affect project dynamics + balance
@@ -162,9 +162,9 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (sforzo personale)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
 ##Iniziare un progetto mentre si è assunti in un'azienda
-*Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
+*Molti progetti open-source iniziano come side project di un dipendente di un'azienda. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
 
-*If you pursue this path, make sure you understand your company's policy on open source work. Some companies encourage employees to contribute to open source during working hours. Some might treat your open source work as a company project. Don't assume anything; ask someone at your company before starting.*
+*Se vuoi seguire questa strada, assicurati di aver capito le politiche dell'azienda riguardo la produzione di software open-source. Alcune aziende incoraggiano i dipendenti a contribuire all'open-source durante le ore lavorative, mentre altre potrebbero trattare il tuo lavoro open-source come un prodotto dell'azienda. Non assumere nulla, chiedi ai tuoi datori di lavori prima di iniziare.*
 
 ####Vantaggi
 * Libertà di dedicarsi a nuove idee senza la preoccupazione del salario
@@ -180,12 +180,13 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Mozilla and Rust](https://www.rust-lang.org/faq.html#is-this-project-controlled-by-mozilla)
 * [Google and Go](https://golang.org/doc/faq#history)
 * [Facebook and React](https://www.quora.com/How-was-the-idea-to-develop-React-conceived-and-how-many-people-worked-on-developing-it-and-implementing-it-at-Facebook/answer/Bill-Fisher-17)
-* [Futurice's open source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
+* [Futurice's open-source program](http://futurice.com/blog/sponsoring-free-time-open-source-activities)
 
-##Grants
-*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+##Grant
+*I Grant sono grosse donazioni che non richiedono una restituzione. Spesso chi emana i grant riceve altri benefici, come un accesso a te (cosa vuol dire?), dimostrazione di impatto del progetto, un report del tuo lavoro o benefici riguardanti le tasse.*
 
-*Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
+*I grant possono arrivare da diverse fonti, incluse aziende, fondazioni software, fondazioni filantropiche o dal governo. L'aspetto tecnico e legale di un grant varia a seconda della fonte: per esempio, un'azienda potrebbe darti un grant ma trattarlo legalmente come una fattura di consulenza. Una fondazione filantropica può inviare grant solo a no-profit, quindi dovresti avere una no-profit anche tu, o (più comunemente) trovare una noprofit che ti sponsorizzi. Se non sei familiare coi grant, il miglior modo per capire come funzionano è parlare con qualcuno che ne ha ricevuto uno. Alcuni esempi di progetti che hanno ricevuto un grant li puoi trovare più avanti.*
+
 
 ####Vantaggi
 * Fewer strings attached
@@ -193,13 +194,13 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * Gives project room to breathe and experiment
 
 ####Svantaggi
-* There aren’t many software-related grantmakers (philanthropic, gov’t, corporate)
-* Grants are finite. Still need to find sustainability beyond the life of a grant
+* Non esistono molti donatori di grant per progetti relativi a software 
+* I grant finiscono; devi comunque trovare un modo per sostenerti anche dopo aver terminato i soldi del grant
 
 ####Casi di studio
 * [Dat](https://usopendata.org/)
 * [Andrey Petrov + Stripe Open-Source Retreat and urllib3](https://medium.com/@shazow/urllib3-stripe-and-open-source-grants-edb9c0e46e82#.45ylnxrh4)
-* [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
+* [Django + Mozilla open-source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 
 ##Consulenza e servizi
 *La consulenza è un ottimo modo per ricevere fondi per un progetto open-source. Hai più libertà nella gestione del tempo (per esempio, consulenze per 30 ore alla settimana e 10 ore per lo sviluppo). I consulenti sono pagati solitamente di più rispetto ad un dipendente salariato in quanto il loro lavoro è meno costante, non ricevono benefici, ecc. Se hai pianificato di fare questo tipo di attività regolarmente, può essere necessario istituire una SRL (od un tipo di società equivalente in un altro stato).*
@@ -223,11 +224,11 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [OpenSSL](http://openssl.com/what.html)
 
 ##SaaS
-*SaaS è l'acronimo di [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In questo modello, il codice principale è opensource, ma puoi offrire servizi aggiuntivi a pagamento che permettono ad altre persone di utilizzare il tuo progetto con facilità. Un esempio di servizio a pagamento potrebbe essere far pagare per l'hosting.*
+*SaaS è l'acronimo di [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In questo modello, il codice principale è open-source, ma puoi offrire servizi aggiuntivi a pagamento che permettono ad altre persone di utilizzare il tuo progetto con facilità. Un esempio di servizio a pagamento potrebbe essere far pagare per l'hosting.*
 
 ####Vantaggi
 * Can build community around open project and make money off of services for hosting
-* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
+* Allows open-source project to focus on users and as needs grow to help enterprises adopt the project
 * Can scale by number of users
 
 ####Svantaggi
@@ -244,7 +245,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Ghost](https://ghost.org/)
 
 ##Licenze freemium
-*Le licenze "Freemium" non sono open-source, in quanto non offrono contemporaneamente tutte le [libertà richieste](https://en.wikipedia.org/wiki/The_Open_Source_Definition) da una licenza opensource (per esempio, il codice sorgente non è allo stesso tempo visibile liberamente e disponibile per la redistribuzione e modifica). Still, they are tangentially related to open source work.*
+*Le licenze "Freemium" non sono open-source, in quanto non offrono contemporaneamente tutte le [libertà richieste](https://en.wikipedia.org/wiki/The_Open_Source_Definition) da una licenza open-source (per esempio, il codice sorgente non è allo stesso tempo visibile liberamente e disponibile per la redistribuzione e modifica). Still, they are tangentially related to open-source work.*
 
 *Una licenza freemium restringe alcune libertà dell'open-source; per esempio il codice potrebbe essere visibile, ma viene richiesta una licenza commerciale per utilizzarlo.*
 
@@ -302,7 +303,7 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 
 
 ####Vantaggi
-* Neutralità. Le fondazioni proteggono il codice ed aiutano lo svilupo della comunità attorno al software. 
+* Neutralità. Le fondazioni proteggono il codice ed aiutano lo svilupo della comunità attorno al software
 * Influence distributed across multiple donors
 * Can legitimize project, companies might feel more comfortable giving to foundations than individuals
 
@@ -317,16 +318,16 @@ TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForO
 * [Node.js Foundation](https://www.sitepoint.com/goodbye-joyent-hello-node-js-foundation/)
 
 ##Venture capital
-*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitaists take equity (a percent ownership in your business) in exchange for funding. The tradeoff is that unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+*I Venture capital sono un metodo di finanziamento per business a crescita rapida. Al contrario di prestiti bancari o ad altre forme di finanziamento tramite debito, i venture capital acquisiscono una equity (una quota percentuale di possesso del business) in cambio di un finanziamento. Il vantaggio rispetto ad un prestito è che nel caso di fallimento del progetto non devi ripagare un debito con qualcuno. Se invece il progetto ha successo, devi aspettarti di rendere il capitale investito dai VC ad un multiplo.*
 
-*Venture capital is "high risk high reward": VCs are more risk tolerant than, say, a bank, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
+*I Venture capital sono ad "alto rischio ed alto profitto". I VC sono più tolleranti al rischio rispetto ad una banca, ma si aspettano un grande guadagno nel caso che il business abbia successo. Se pianifichi di ottenere dei fondi da un venture capital, è necessario creare una società, in Italia può essere una SRL. Se non sei familiare con il processo dei venture capital, il modo migliore per iniziare è contattare altri come te che hanno già ottenuto dei fondi da un venture.*
 
 ####Vantaggi
 * Il supporto di un Venture capital può essere di aiuto per la creazione di un business
 * Grande quantità di capitale disponibile
 
 ####Svantaggi
-* I Venture capital comes with expectations of an exit (i.e. returning the money to investors at a multiple). L'esperienza suggerisce che questo è difficilmente attuabile con i business basati sull'opensource.
+* I Venture capital finanziano i progetti nella prospettiva di una futura exit (ovvero la vendita delle proprie quote per un valore superiore all'investimento iniziale). L'esperienza suggerisce che questo è difficilmente attuabile con i business basati sull'open-source
 * I Venture capital possono cambiare prospettiva, distraendo lo sviluppo dalle priorità reali
 
 ####Casi di studio
