@@ -1,4 +1,6 @@
 # Guida pratica su come guadagnare con l'open-source
+# Come trasformare l'open-source in un lavoro
+*Una guida per sviluppatori squattrinati*
 *"Lavoro con l'open-source, come posso guadagnare rendendolo quindi un lavoro?"*
 
 In questa guida verranno illustrati tutti i metodi che conosco per venire pagati per i propri lavori open-source, grezzamente ordinati dal più piccolo al più grande. Ogni categoria contiene dei link ad esempi reali. (Dove possibile, ho provato a linkare ad articoli utili o pagine invece che a semplici homepage.).
@@ -9,25 +11,25 @@ Le categorie non si escludono mutualmente. Per esempio, un progetto potrebbe ave
 
 
 # Sommario dei contenuti
-1. [Pulsante di donazione](#donation-button)
-2. [Bounty](#bounties)
-3. [Raccolta fondi iniziale](#crowdfunding-one-time)
-4. [Raccolta fondi ricorrente](#crowdfunding-recurring)
-5. [Libri e merchandise](#books-and-merchandise)
-6. [Pubblicità e sponsorizzazioni](#advertising--sponsorships)
-7. [Farti assumere da un'azienda per lavorare al progetto](#get-hired-by-a-company-to-work-on-project)
-8. [Iniziare un progetto mentre si è assunti in un'azienda](#start-a-project-while-currently-employed)
+1. [Pulsante di donazione](#pulsante-di-donazione)
+2. [Bounty](#bounty)
+3. [Raccolta fondi iniziale](#raccolta-fondi-iniziale)
+4. [Raccolta fondi ricorrente](#raccolta-fondi-ricorrente)
+5. [Libri e merchandise](#libri-e-merchandise)
+6. [Pubblicità e sponsorizzazioni](#pubblicità-e-sponsorizzazioni)
+7. [Farti assumere da un'azienda per lavorare al progetto](#farti-assumere-da-un-azienda-per-lavorare-al-progetto)
+8. [Iniziare un progetto mentre si è assunti in un'azienda](#iniziare-un-progetto-mentre-si-è-assunti-in-un-azienda)
 9. [Grant](#grant)
-10. [Consulenza e servizi](#Svantaggiulting--services)
+10. [Consulenza e servizi](#consulenza-e-servizi)
 11. [SaaS](#saas)
-12. [Licenza freemium](#freemium-license)
-13. [Doppia licenza](#dual-license)
+12. [Licenza freemium](#licenza-freemium)
+13. [Doppia licenza](#doppia-licenza)
 14. [Open core](#open-core)
-15. [Fondazioni e consorzi](#foundations--consortiums)
+15. [Fondazioni e consorzi](#fondazioni-e-consorzi)
 16. [Venture capital](#venture-capital)
 
 APPENDICE: [Contribuire a questa guida](#contributing-to-this-guide) // [Licenza e attribuzione](#license-and-attribution)
-TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForopen-source // [Inglese(english)](https://github.com/nayafia/lemonade-stand)
+TRADUZIONI: [Chinese(中文版)](https://github.com/wizicer/FinancialSupportForopen-source) // [Inglese(english)](https://github.com/nayafia/lemonade-stand)
 
 **le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è interessato un singolo utente e non un progetto
 
