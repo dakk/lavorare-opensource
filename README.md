@@ -33,7 +33,9 @@ Traduzioni: [Chinese (中文版)](https://github.com/wizicer/FinancialSupportFor
 
 
 ## Pulsante di donazione
-Il metodo sicuramente più classico, è l'inserimento di un pulsante di donazione nel sito del progetto. Esistono alcuni servizi che ti permettono di aggiungere un pulsante di donazione in modo rapido e semplice, come ad esempio Stripe e PayPal. Un'altra possibilità è accettare donazioni tramite criptomonete come Bitcoin, in tal caso basta inserire l'immagine del QR code del proprio wallet (un esempio di questo approccio potrai trovarlo alla fine di questa guida).
+Il metodo sicuramente più classico, è l'inserimento di un pulsante di donazione nel sito del progetto. Esistono alcuni servizi che ti permettono di aggiungere un pulsante di donazione in modo rapido e semplice, come ad esempio Stripe e PayPal. 
+
+Un'altra possibilità è accettare donazioni tramite criptomonete come Bitcoin, in tal caso basta inserire l'immagine del QR code del proprio wallet (un esempio di questo approccio potrai trovarlo alla fine di questa guida).
 
 
 #### Vantaggi
