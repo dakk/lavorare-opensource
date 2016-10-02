@@ -29,7 +29,7 @@ Appendice: [Contribuire alla guida](#contribuire-a-questa-guida) // [Licenza e a
 
 Traduzioni: [Chinese (中文版)](https://github.com/wizicer/FinancialSupportForopen-source) // [Inglese (english)](https://github.com/nayafia/lemonade-stand)
 
-> \* le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è stato interessato un singolo sviluppatore
+> Le note "sforzo personale" si riferiscono ad esempi di finanziamento dove è stato interessato un singolo sviluppatore
 
 
 ## Pulsante di donazione
