@@ -386,9 +386,5 @@ Questa guida è disponibile sotto licenza "Creative Commons CC-BY 3.0 License", 
 La guida è stata realizzata da Davide Gessa ([@dakk](http://github.com/dakk), [mail](mailto:gessadavide@gmail.com)). Il documento si basa su un progetto in lingua inglese denominato [lemonade-stand](https://github.com/nayafia/lemonade-stand).
 
 
-### Donazioni
-Chi vuole può fare una donazione tramite Bitcoin all'indirizzo: 13gbybVyaYy5yA7Z7si2zJfo2Aat6d7c8z
-
-![Donation QR code](https://raw.githubusercontent.com/dakk/lavorare-opensource/master/media/donateqr.png)
 
 
